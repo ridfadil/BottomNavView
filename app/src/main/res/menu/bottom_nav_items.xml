@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/menu_jurnal"
+        android:title="@string/jurnal"
+        android:icon="@drawable/jurnal"/>
+    <item
+        android:id="@+id/menu_tentang"
+        android:title="@string/tentang"
+        android:icon="@drawable/about" />
+</menu>

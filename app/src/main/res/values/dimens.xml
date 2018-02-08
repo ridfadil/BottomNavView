@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_row_card">8dp</dimen>
+    <dimen name="width_row_image">100dp</dimen>
+    <dimen name="height_row_image">140dp</dimen>
+    <dimen name="margin_row_image">8dp</dimen>
+    <dimen name="margin_textview">8dp</dimen>
+    <dimen name="size_row_juduljurnal">20sp</dimen>
+    <dimen name="marginleft_row_lastissue">8dp</dimen>
+    <dimen name="size_row_lastissue">16sp</dimen>
+    <dimen name="margin_row_issn">8dp</dimen>
+</resources>
